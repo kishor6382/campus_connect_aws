@@ -1,0 +1,9 @@
+{
+  "name": " Campus Connect ",
+  "description": "A comprehensive campus management system featuring geo-fenced attendance, AI student support, and event management.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
